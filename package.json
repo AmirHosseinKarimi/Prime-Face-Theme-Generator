@@ -2,9 +2,9 @@
   "name": "prime-theme-generator",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Amir hossein Hossein Zadeh Karimi <amir.hossein7464@gmail.com>",
-  "license": "UNLICENSED",
-  "private": true,
+  "author": "Amir Hossein Karimi <amir.hossein7464@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "private": false,
   "scripts": {
     "dev": "npm run development",
     "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
